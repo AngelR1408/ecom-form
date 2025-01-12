@@ -19,7 +19,7 @@ The E-Commerce Registration Form allows users to input their details, including 
 1.  Download the Project*
    - Access the repository using the following command:
      sh
-     git clone https://github.com/AngelR408/ecommerce-registration.git
+     git clone  https://angelr1408.github.io/ecom-form/
   
 2. *Open the HTML File*
    - Navigate to the project directory.
